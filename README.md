@@ -100,7 +100,6 @@ The file includes Gantt sequences, waiting times, response times, turnaround tim
 
 - Linux or another Unix-like operating system
 - Bash
-- GCC or Clang
 - System V IPC support
 
 ## Notes
