@@ -4,14 +4,7 @@ First laboratory project for the **Operating Systems** course, academic year **2
 
 The project includes Bash scripting, process creation and communication through System V message queues, interprocess synchronization and process-scheduling analysis.
 
-## Team
 
-| Student | Registration number |
-|---|---:|
-| Νικόλαος Παπαδούρης | 1090040 |
-| Αλέξανδρος Κολλώσης | 1084562 |
-| Μίλτος Κουράκος | 1084621 |
-| Νικόλαος Ανδρομιδάς | 1084641 |
 
 ## Repository files
 
