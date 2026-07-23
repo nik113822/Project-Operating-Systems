@@ -67,19 +67,7 @@ is calculated using the midpoint numerical-integration method.
 - `integral_seq.c`: sequential implementation.
 - `integral_msgq.c`: multiprocess implementation using `fork()` and a System V message queue for transferring partial results from child processes to the parent process.
 
-Compile the programs:
 
-```bash
-gcc -O2 -Wall -Wextra integral_seq.c -o integral_seq -lm
-gcc -O2 -Wall -Wextra integral_msgq.c -o integral_msgq -lm
-```
-
-Run them:
-
-```bash
-./integral_seq
-./integral_msgq
-```
 
 The expected numerical result is approximately:
 
